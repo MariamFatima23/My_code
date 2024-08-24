@@ -1,0 +1,17 @@
+{
+  "name": "last-project",
+  "version": "1.0.0",
+  "description": "My final project",
+  "main": "index.js",
+  "scripts": {
+   "start": "node index.js",
+  "dev": "nodemon index.js"
+
+  },
+  "author": "@Mariam",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^8.5.3"
+  }
+}
